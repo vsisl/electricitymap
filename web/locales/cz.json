@@ -1,0 +1,71 @@
+{
+    "panel-initial-text": {
+        "thisshowsrealtime": "Toto v reálném čase ukazuje",
+        "whereelectricitycomesfrom": "odkud pochází vaše elektřina",
+        "and": "a",
+        "howmuchco2": "kolik CO2",
+        "wasemitted": "bylo vypuštěno při její produkci",
+
+        "takeinaccount": "Bereme v potaz elektřinu",
+        "importexport": "importovanou a exportovanou",
+        "betweencountries": "mezi státy",
+
+        "thisproject": "Tento projekt je",
+        "opensource": "Open Source",
+        "see": "viz",
+        "datasources": "zdroje dat",
+        "contribute": "Přispějte <a href=\"%s\" target=\"_blank\">přidáním vaší oblasti</a>",
+
+        "tip": "Tip: klikněte na oblast a začněte objevovat"
+    },
+    "country-panel": {
+        "source": "zdroj",
+        "fossilfuels": "Fosilní Paliva",
+        "carbonintensity": "Produkce CO2",
+        "electricityprice": "Cena Elektřiny",
+        "electricityprice-dayahead": "day-ahead",
+        "electricityproduction": "Produkce eletřiny",
+        "bysource": "podle zdroje",
+        "emissions": "Emise uhlíku",
+        "addeditsource": "<a href=\"%s\" target=\"_blank\">přidat nebo upravit zdroj</a>",
+        "co2signal": "Náš <a href=\"%s\" target=\"blank\">CO2 Signal</a> pomáhá zařízením a elektromobilům spotřebovávat elektřinu v pravý čas, především při překročení hranic."
+    },
+    "rankings-panel": {
+        "country-ranking": "Pořadí",
+        "show-ranking": "Ukázat pořadí"
+    },
+    "country-history": {
+        "carbonintensity24h": "Produkce CO2 za posledních 24 hodin",
+        "downloaddataset": "stáhnout kompletní data"
+    },
+    "footer": {
+        "likethisvisu": "Líbí se vám tato vizualizace?",
+        "loveyourfeedback": "Rádi uslyšíme váš názor",
+        "foundbugs": "Našli jste chybu nebo máte nápad? Oznamte je",
+        "here": "zde"
+    },
+    "legends": {
+        "windpotential": "Rychlost větru",
+        "solarpotential": "Intenzita slunečního záření",
+        "colorblindmode": "mód pro barvoslepé",
+        "carbonintensity": "Produkce CO2"
+    },
+    "tooltips": {
+        "electricityprice": "Cena elektřiny (day-ahead)",
+        "fossilfuels": "fosilní paliva",
+        "carbonintensity": "Produkce CO2",
+        "crossborderexport": "Přeshraniční tok",
+        "carbonintensityexport": "Uhlíková intezita toku",
+
+        "ofinstalled": "instalované kapacity",
+        "utilizing": "využito",
+        "withcarbonintensity": "s produkcí CO2"
+    },
+    "misc": {
+        "maintitle": "Živé emise CO2 spotřeby elektřiny",
+        "lastupdate": "Aktualizováno",
+        "oops": "Ups! Máme potíže navázat kontakt se serverem. Zkusíme to znovu za pár vteřin.",
+        "newversion": "Je dostupná nová verze! Klikněte <a onClick=\"location.reload(true);\">zde</a> pro opětovné načtení.",
+        "retrynow": "Zkusit znovu"
+    }
+}
